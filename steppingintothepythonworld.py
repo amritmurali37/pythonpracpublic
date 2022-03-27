@@ -32,8 +32,8 @@ several \
 lines"""
 print(anotherSplitString)
 #######################
-print(r"C:\Users\amritmurali\notes.txt")
-print("C:\\Users\\amritmurali\\notes.txt")
+print(r"C:\Users\\notes.txt")
+print("C:\\Users\\\\notes.txt")
 #######################
 age = str(20)
 print(age)
